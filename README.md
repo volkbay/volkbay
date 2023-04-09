@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @volkbay
+- 👋 Hi, I’m [@volkbay](https://github.com/volkbay) !
 - 👀 I’m interested in Computer Vision, Machine Learning and/or Robotics.
 - 🌱 I’m currently learning Deep Learning, Event-based Vision and GUI Design.
 - 💞️ I’m looking for a PhD position in computer vision domain.
