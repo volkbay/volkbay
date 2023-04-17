@@ -1,16 +1,9 @@
 ### 👋 Hi, I’m [@volkbay](https://github.com/volkbay) !
-I’m interested in Computer Vision, Machine Learning, Event-based Vision and Design. I love research combining computer vision with distinct fields such as Digital Humanities, Robotics. Here, I share my professional work (if possible), hobby projects and other _messy_ stuff.
-
->**Warning** 🔍 I’m looking for a PhD position in computer vision domain in Europe.
-
-Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/##0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkan-okbay/).
-
+I’m interested in Computer Vision, Machine Learning, Event-based Vision and Design. I love research combining computer vision with distinct fields such as Digital Humanities, Robotics. Here, I share my professional work (if possible), hobby projects and other _messy_ stuff. Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/##0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkan-okbay/).
+>**Warning** I’m looking for a PhD position in computer vision domain in Europe.
 ---
-
-
-
+<img align='middle' title="Definitions" height="17" width="300" src="https://user-images.githubusercontent.com/97564250/232615286-d562c686-2dd8-4239-b7ea-7c7ede268a44.png" />
 <p>
-  <img title="Definitions" height="20" width="500" src="https://user-images.githubusercontent.com/97564250/232612834-8839e958-e1f2-4811-b2fa-effcb52b4596.png" />
   <img title="VSCode" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/maroon" />
   <img title="Git" height="32" width="32" src="https://cdn.simpleicons.org/git/maroon" />
   <img title="Docker" height="32" width="32" src="https://cdn.simpleicons.org/docker/maroon" />
