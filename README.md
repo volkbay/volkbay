@@ -4,6 +4,7 @@ I’m interested in Computer Vision, Machine Learning, Event-based Vision and De
 >**Warning** 🔍 I’m looking for a PhD position in computer vision domain in Europe.
 
 Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/##0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkan-okbay/).
+
 ---
 
 <p>
@@ -19,17 +20,17 @@ Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/micros
   <img title="C++" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/olive" />  
   <img title="Python3" height="32" width="32" src="https://cdn.simpleicons.org/python/olive" />
   <img title="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/olive" />
-  <img title="MATLAB" height="32" width="32" src="" />
-  <img title="Assembly" height="32" width="32" src="" />
-  <img title="VHDL" height="32" width="32" src="" />
+  <img title="MATLAB" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603423-38939a19-c763-47e1-aca2-f36d733d0ba8.png" />
+  <img title="Assembly" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603348-5b34c788-dbac-46ff-99bc-3b1d25253667.png" />
+  <img title="VHDL" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232605686-7616b106-5505-44a5-9924-74e7b4edd391.png" />
   <img title="PyTorch" height="32" width="32" src="https://cdn.simpleicons.org/pytorch/teal" />
   <img title="Tensorflow" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/teal" />
   <img title="OpenCV" height="32" width="32" src="https://cdn.simpleicons.org/opencv/teal" />
   <img title="Qt" height="32" width="32" src="https://cdn.simpleicons.org/qt/teal" />
+  <img align='bottom' title="Atmel" height="26" width="96" src="https://user-images.githubusercontent.com/97564250/232550806-723a735b-5c04-4e56-a76d-830004b61802.png" />
   <img title="Arduino" height="32" width="32" src="https://cdn.simpleicons.org/arduino/black" />
   <img title="Rasperry Pi" height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/black" />
   <img title="Nvidia Jetson" height="32" width="32" src="https://cdn.simpleicons.org/nvidia/black" />
   <img title="ARM" height="32" width="32" src="https://cdn.simpleicons.org/arm/black" />
   <img title="Xilinx FPGA" height="32" width="32" src="https://cdn.simpleicons.org/xilinx/black" />
-  <img title="Atmel" height="16" width="32" src="https://user-images.githubusercontent.com/97564250/232550806-723a735b-5c04-4e56-a76d-830004b61802.png" />
 </p>
