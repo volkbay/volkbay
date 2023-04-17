@@ -7,7 +7,10 @@ Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/micros
 
 ---
 
+
+
 <p>
+  <img title="Definitions" height="20" width="500" src="https://user-images.githubusercontent.com/97564250/232612834-8839e958-e1f2-4811-b2fa-effcb52b4596.png" />
   <img title="VSCode" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/maroon" />
   <img title="Git" height="32" width="32" src="https://cdn.simpleicons.org/git/maroon" />
   <img title="Docker" height="32" width="32" src="https://cdn.simpleicons.org/docker/maroon" />
@@ -22,7 +25,7 @@ Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/micros
   <img title="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/olive" />
   <img title="MATLAB" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603423-38939a19-c763-47e1-aca2-f36d733d0ba8.png" />
   <img title="Assembly" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603348-5b34c788-dbac-46ff-99bc-3b1d25253667.png" />
-  <img title="VHDL" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232605686-7616b106-5505-44a5-9924-74e7b4edd391.png" />
+  <img title="VHDL" height="32" width="40" src="https://user-images.githubusercontent.com/97564250/232612061-b902de71-a9b1-4a37-b728-e1219cb25809.png" />
   <img title="PyTorch" height="32" width="32" src="https://cdn.simpleicons.org/pytorch/teal" />
   <img title="Tensorflow" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/teal" />
   <img title="OpenCV" height="32" width="32" src="https://cdn.simpleicons.org/opencv/teal" />
