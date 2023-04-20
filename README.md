@@ -17,7 +17,7 @@ I’m interested in Computer Vision, Machine Learning, Event-based Vision and De
   <img title="Python3" height="32" width="32" src="https://cdn.simpleicons.org/python/olive" />
   <img title="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/olive" />
   <img title="MATLAB" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603423-38939a19-c763-47e1-aca2-f36d733d0ba8.png" />
-  <img title="Assembly" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603348-5b34c788-dbac-46ff-99bc-3b1d25253667.png" />
+  <img title="Assembly" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/233400265-16fd1b73-4a19-4a5f-bb5b-2bedb6302415.png" />
   <img title="VHDL" height="32" width="40" src="https://user-images.githubusercontent.com/97564250/232612061-b902de71-a9b1-4a37-b728-e1219cb25809.png" />
   <img title="PyTorch" height="32" width="32" src="https://cdn.simpleicons.org/pytorch/teal" />
   <img title="Tensorflow" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/teal" />
