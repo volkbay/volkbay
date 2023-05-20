@@ -6,7 +6,7 @@ I’m interested in Computer Vision, Machine Learning, Event-based Vision and De
 >
 ><a href="https://www.buymeacoffee.com/volkbay"><img align="right" title="Thank you for your support!" width="200" src="https://user-images.githubusercontent.com/97564250/236645446-64c0d612-29b7-4ce8-97ba-2e8be3161f80.png"><a/>
 ---
-<img align='middle' title="Definitions" height="20" width="360" src="https://github.com/volkbay/volkbay/assets/97564250/ab6f6723-4180-4f13-bff5-50e3dcc50894" />
+><img align='middle' title="Definitions" height="20" width="360" src="https://github.com/volkbay/volkbay/assets/97564250/ab6f6723-4180-4f13-bff5-50e3dcc50894" />
   
 <p>
   <img title="VSCode" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/maroon" />
@@ -28,7 +28,7 @@ I’m interested in Computer Vision, Machine Learning, Event-based Vision and De
   <img title="Tensorflow" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/teal" />
   <img title="OpenCV" height="32" width="32" src="https://cdn.simpleicons.org/opencv/teal" />
   <img title="Qt" height="32" width="32" src="https://cdn.simpleicons.org/qt/teal" />
-  <img align='bottom' title="Atmel" height="26" width="96" src="https://github.com/volkbay/volkbay/assets/97564250/0327114f-4804-4018-9179-fe001dfeea4b" />
+  <img align='bottom' title="Atmel" height="26" width="96" src="https://github.com/volkbay/volkbay/assets/97564250/0327114f-4804-4018-9179-fe001dfeea4b"/>
   <img title="Arduino" height="32" width="32" src="https://cdn.simpleicons.org/arduino/chocolate" />
   <img title="Rasperry Pi" height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/chocolate" />
   <img title="Nvidia Jetson" height="32" width="32" src="https://cdn.simpleicons.org/nvidia/chocolate" />
