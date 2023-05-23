@@ -12,13 +12,15 @@ I’m interested in Computer Vision, Machine Learning, Event-based Vision and De
   <img title="VSCode" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/maroon" />
   <img title="Git" height="32" width="32" src="https://cdn.simpleicons.org/git/maroon" />
   <img title="Docker" height="32" width="32" src="https://cdn.simpleicons.org/docker/maroon" />
+  <img title="CMake" height="32" width="32" src="https://cdn.simpleicons.org/cmake/maroon" />
   <img title="Anaconda" height="32" width="32" src="https://cdn.simpleicons.org/anaconda/maroon" />
   <img title="Blender" height="32" width="32" src="https://cdn.simpleicons.org/blender/maroon" />
   <img title="Inkscape" height="32" width="32" src="https://cdn.simpleicons.org/inkscape/maroon" />
   <img title="Ubuntu" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/maroon" />
   <img title="Jupyter" height="32" width="32" src="https://cdn.simpleicons.org/jupyter/maroon" />
   <img title="Clojure" height="32" width="32" src="https://cdn.simpleicons.org/clojure/olive" />
-  <img title="C++" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/olive" />  
+  <img title="C" height="32" width="32" src="https://cdn.simpleicons.org/c/olive" />
+  <img title="Modern C++" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/olive" />  
   <img title="Python3" height="32" width="32" src="https://cdn.simpleicons.org/python/olive" />
   <img title="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/olive" />
   <img title="MATLAB" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603423-38939a19-c763-47e1-aca2-f36d733d0ba8.png" />
