@@ -1,8 +1,11 @@
-### 👋 Hi, I’m [@volkbay](https://github.com/volkbay) !
-I’m interested in Computer Vision, Machine Learning, Event-based Vision and Design. I love research combining computer vision with distinct fields such as Digital Humanities, Robotics. Here, I share my professional work (if possible), hobby projects and other _stuff_. Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/##0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
+![banner](https://github.com/volkbay/volkbay/assets/97564250/bf264095-9973-47f3-8fa4-7ddc384cdbda)
+
+My research interests lie at the intersection of computer vision and machine learning, focusing on exploring the potential for visual data to inform decision-making and various other tasks in various domains, including robotics, arts, biology, and digital humanities. As a researcher and practitioner, my mission is to investigate novel solutions to complex problems in these fields, using both learning-based and hand-crafted algorithms. Here on this page, I share my professional work (if possible), hobby projects, and other _stuff_.
+
+Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/##0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
 >**Note** Check my gists [here](https://gist.github.com/volkbay) where I share several fixes and how-tos.
 >
->**Warning** I’m looking for a PhD position in computer vision domain in Europe.
+>**Warning** I’m looking for a Ph.D. position in the computer vision domain in Europe.
 >
 ><a href="https://www.buymeacoffee.com/volkbay"><img align="right" title="Thank you for your support!" width="200" src="https://user-images.githubusercontent.com/97564250/236645446-64c0d612-29b7-4ce8-97ba-2e8be3161f80.png"><a/>
 ---
