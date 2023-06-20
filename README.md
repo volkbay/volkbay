@@ -1,4 +1,4 @@
-![banner](https://github.com/volkbay/volkbay/assets/97564250/bf264095-9973-47f3-8fa4-7ddc384cdbda)
+![banner](https://github.com/volkbay/volkbay/assets/97564250/6b71872c-371c-4b09-bcb3-44060d98ac1a)
 
 My research interests lie at the intersection of computer vision and machine learning, focusing on exploring the potential for visual data to inform decision-making and various other tasks in various domains, including robotics, arts, biology, and digital humanities. As a researcher and practitioner, my mission is to investigate novel solutions to complex problems in these fields, using both learning-based and hand-crafted algorithms. Here on this page, I share my professional work (if possible), hobby projects, and other _stuff_.
 
