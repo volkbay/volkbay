@@ -33,6 +33,7 @@ Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/micros
   <img title="Tensorflow" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/teal" />
   <img title="OpenCV" height="32" width="32" src="https://cdn.simpleicons.org/opencv/teal" />
   <img title="Qt" height="32" width="32" src="https://cdn.simpleicons.org/qt/teal" />
+  <img title="Weights & Biases" height="32" width="32" src="https://cdn.simpleicons.org/weightsandbiases/teal" />
   <img align='bottom' title="Atmel" height="26" width="96" src="https://github.com/volkbay/volkbay/assets/97564250/0327114f-4804-4018-9179-fe001dfeea4b"/>
   <img title="Arduino" height="32" width="32" src="https://cdn.simpleicons.org/arduino/chocolate" />
   <img title="Rasperry Pi" height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/chocolate" />
