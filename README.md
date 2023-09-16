@@ -2,7 +2,7 @@
 
 My research interests lie at the intersection of computer vision and machine learning, focusing on exploring the potential for visual data to inform decision-making and various other tasks in various domains, including robotics, arts, biology, and digital humanities. As a researcher and practitioner, my mission is to investigate novel solutions to complex problems in these fields, using both learning-based and hand-crafted algorithms. Here on this page, I share my professional work (if possible), hobby projects, and other _stuff_.
 
-Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/##0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/#0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
+Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
 >**Note** Check my Gist Index [here](https://gist.github.com/volkbay/bb258b95413b48b81433da3608d7b230) or all Gists [here](https://gist.github.com/volkbay) where I share several fixes and how-tos.
 >
 >**Warning** I’m looking for a Ph.D. position in the computer vision domain in Europe.
