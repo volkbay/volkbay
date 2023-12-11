@@ -39,5 +39,5 @@ Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/micros
   <img title="Rasperry Pi" height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/chocolate" />
   <img title="Nvidia Jetson" height="32" width="32" src="https://cdn.simpleicons.org/nvidia/chocolate" />
   <img title="ARM" height="32" width="32" src="https://cdn.simpleicons.org/arm/chocolate" />
-  <img title="Xilinx FPGA" height="32" width="32" src="https://cdn.simpleicons.org/xilinx/chocolate" />
+  <img title="Xilinx FPGA" height="32" width="32" src="https://github.com/volkbay/volkbay/assets/97564250/284da8cd-511e-47e2-9601-dd2270030610" />
 </p>
