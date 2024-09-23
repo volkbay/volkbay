@@ -1,8 +1,8 @@
 ![banner](https://github.com/volkbay/volkbay/assets/97564250/6b71872c-371c-4b09-bcb3-44060d98ac1a)
 
-My research interests lie at the intersection of computer vision and machine learning, focusing on exploring the potential for visual data to inform decision-making and various other tasks in various domains, including robotics, arts, biology, and digital humanities. As a researcher and practitioner, my mission is to investigate novel solutions to complex problems in these fields, using both learning-based and hand-crafted algorithms. Here on this page, I share my professional work (if possible), hobby projects, and other _stuff_.
+My research interests lie at the intersection of computer vision and machine learning, focusing on exploring the potential for visual data to inform decision-making and various other tasks in various domains, including robotics, arts, natural science, and digital humanities. As a researcher and practitioner, my mission is to investigate novel solutions to complex problems in these fields, using both learning-based and hand-crafted algorithms. Here on this page, I share my professional work (if possible), hobby projects, and other _stuff_.
 
-Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" /> volkanokbay@hotmail.com](mailto:volkanokbay@hotmail.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
+Reach me by [<img height="16" width="16" src="https://github.com/user-attachments/assets/b4a2cd41-ff39-4e40-b0e0-afa5af6fad22" /> volkanokbay@outlook.com](mailto:volkanokbay@outlook.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
 >**Note** Check my Gist Index [here](https://gist.github.com/volkbay/bb258b95413b48b81433da3608d7b230) or all Gists [here](https://gist.github.com/volkbay) where I share several fixes and how-tos.
 >
 >**Warning** I’m looking for a Ph.D. position in the computer vision domain in Europe.
@@ -11,8 +11,10 @@ Reach me by [<img height="16" width="16" src="https://cdn.simpleicons.org/micros
 ---
 ><img align='middle' title="Definitions" height="20" width="360" src="https://github.com/volkbay/volkbay/assets/97564250/ab6f6723-4180-4f13-bff5-50e3dcc50894" />
   
+
 <p>
-  <img title="VSCode" height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/maroon" />
+
+  <img title="VSCode" height="32" width="32" src="https://github.com/user-attachments/assets/7131ff55-1a08-4672-be94-7472fa81246b" />
   <img title="Git" height="32" width="32" src="https://cdn.simpleicons.org/git/maroon" />
   <img title="Docker" height="32" width="32" src="https://cdn.simpleicons.org/docker/maroon" />
   <img title="CMake" height="32" width="32" src="https://cdn.simpleicons.org/cmake/maroon" />
