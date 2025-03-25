@@ -5,7 +5,7 @@ My research interests lie at the intersection of computer vision and machine lea
 Reach me by [<img height="16" width="16" src="https://github.com/user-attachments/assets/b4a2cd41-ff39-4e40-b0e0-afa5af6fad22" /> volkanokbay@outlook.com](mailto:volkanokbay@outlook.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
 >**Note** Check my Gist Index [here](https://gist.github.com/volkbay/bb258b95413b48b81433da3608d7b230) or all Gists [here](https://gist.github.com/volkbay) where I share several fixes and how-tos.
 >
->**Warning** I’m looking for a Ph.D. position in the computer vision domain in Europe.
+>**Warning** I’m looking for a Ph.D. position in the computer vision domain, mainly in Europe.
 >
 ><a href="https://www.buymeacoffee.com/volkbay"><img align="right" title="Thank you for your support!" width="200" src="https://user-images.githubusercontent.com/97564250/236645446-64c0d612-29b7-4ce8-97ba-2e8be3161f80.png"><a/>
 ---
