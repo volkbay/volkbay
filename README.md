@@ -2,7 +2,7 @@
 
 My research interests lie at the intersection of computer vision and machine learning, with a focus on exploring the potential for visual data to inform decision-making and other tasks in various domains, including robotics, arts, natural sciences, and digital humanities. As a researcher and practitioner, my mission is to investigate novel solutions to complex problems in these fields, using both learning-based and hand-crafted algorithms. Here on this page, I share my professional work (if possible), hobby projects, and other _stuff_.
 
-Reach me by [<img height="16" width="16" src="https://github.com/user-attachments/assets/b4a2cd41-ff39-4e40-b0e0-afa5af6fad22" /> volkanokbay@outlook.com](mailto:volkanokbay@outlook.com) or [<img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
+Reach me by [<img height="16" width="16" src="https://github.com/user-attachments/assets/b4a2cd41-ff39-4e40-b0e0-afa5af6fad22" /> volkanokbay@outlook.com](mailto:volkanokbay@outlook.com) or [<img height="16" width="16" src="https://github.com/user-attachments/assets/67486b21-d731-43d7-a066-3f2c11145e0f" /> LinkedIn ](https://www.linkedin.com/in/volkbay/).
 >**Note** Check my Gist Index [here](https://gist.github.com/volkbay/bb258b95413b48b81433da3608d7b230) or all Gists [here](https://gist.github.com/volkbay) where I share several fixes and how-tos.
 >
 >**Warning** I’m looking for a Ph.D. position in the computer vision domain, mainly in Europe.
@@ -20,22 +20,22 @@ Reach me by [<img height="16" width="16" src="https://github.com/user-attachment
   <img title="CMake" height="32" width="32" src="https://cdn.simpleicons.org/cmake/maroon" />
   <img title="Anaconda" height="32" width="32" src="https://cdn.simpleicons.org/anaconda/maroon" />
   <img title="Blender" height="32" width="32" src="https://cdn.simpleicons.org/blender/maroon" />
-  <img title="Inkscape" height="32" width="32" src="https://cdn.simpleicons.org/inkscape/maroon" />
+  <img title="Inkscape" height="32" width="32" src="https://github.com/user-attachments/assets/5d50d936-4e49-4ec2-b233-72688bed2cea" />
   <img title="Ubuntu" height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/maroon" />
   <img title="Jupyter" height="32" width="32" src="https://cdn.simpleicons.org/jupyter/maroon" />
   <img title="Clojure" height="32" width="32" src="https://cdn.simpleicons.org/clojure/olive" />
   <img title="C" height="32" width="32" src="https://cdn.simpleicons.org/c/olive" />
   <img title="Modern C++" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/olive" />  
   <img title="Python3" height="32" width="32" src="https://cdn.simpleicons.org/python/olive" />
-  <img title="Bash" height="32" width="32" src="https://cdn.simpleicons.org/gnubash/olive" />
+  <img title="Bash" height="32" width="32" src="https://github.com/user-attachments/assets/15931eac-1255-49af-966a-ce0e8d64c4a2" />
   <img title="MATLAB" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/232603423-38939a19-c763-47e1-aca2-f36d733d0ba8.png" />
   <img title="Assembly" height="32" width="32" src="https://user-images.githubusercontent.com/97564250/233400265-16fd1b73-4a19-4a5f-bb5b-2bedb6302415.png" />
   <img title="VHDL" height="32" width="40" src="https://user-images.githubusercontent.com/97564250/232612061-b902de71-a9b1-4a37-b728-e1219cb25809.png" />
   <img title="PyTorch" height="32" width="32" src="https://cdn.simpleicons.org/pytorch/teal" />
   <img title="Tensorflow" height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/teal" />
   <img title="OpenCV" height="32" width="32" src="https://cdn.simpleicons.org/opencv/teal" />
-  <img title="Qt" height="32" width="32" src="https://cdn.simpleicons.org/qt/teal" />
-  <img title="Weights & Biases" height="32" width="32" src="https://cdn.simpleicons.org/weightsandbiases/teal" />
+  <img title="Qt" height="32" width="43.4" src="https://github.com/user-attachments/assets/e744ce40-db21-421b-8716-69a400aa45aa" />
+  <img title="Weights & Biases" height="32" width="32" src="https://github.com/user-attachments/assets/0ced9c04-4dec-4b60-b584-eeae63139c99" />
   <img align='bottom' title="Atmel" height="26" width="96" src="https://github.com/volkbay/volkbay/assets/97564250/0327114f-4804-4018-9179-fe001dfeea4b"/>
   <img title="Arduino" height="32" width="32" src="https://cdn.simpleicons.org/arduino/chocolate" />
   <img title="Rasperry Pi" height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi/chocolate" />
